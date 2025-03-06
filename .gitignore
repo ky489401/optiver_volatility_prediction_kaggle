@@ -1,0 +1,9 @@
+/backup/
+/data/
+/docs/
+/output/
+/references/
+*.ipynb
+/playground.py
+/.idea
+/.ipynb_checkpoints/
